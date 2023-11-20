@@ -1,6 +1,7 @@
 # NotesApp-MERN
 
 This is a simple Notes app built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app allows users to perform basic CRUD (Create, Read, Update, Delete) operations on notes.
+![Mern - NotesApp](https://github.com/dreamcatstudios/Notes-MERN/assets/102027407/89332fff-30a6-43f2-b747-5c09635549de)
 
 ## Features
 
